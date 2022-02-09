@@ -1,0 +1,29 @@
+/*Fundo/Estruturação*/
+html {
+  background-color: rgb(244, 248, 248);
+  margin: 1rem;
+}
+
+/*Titúlo*/
+.titulo {
+  color: #1d8af0de;
+  font: 200 2rem 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+
+/*imagem*/
+.img_1 {
+  content: '';
+  height: 60%;
+  width: 60%;
+  position: relative;
+  top: 15%;
+  left: 0%;
+  z-index: 0;
+}
+
+/*descrição*/
+.descrição {
+  color: rgba(3, 140, 219, 0.938);
+  font: 200 3rem 'Lora', serif;
+}
